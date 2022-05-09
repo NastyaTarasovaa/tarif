@@ -1,0 +1,36 @@
+.tarif-card {
+    width: 150px;
+    height: 400px;
+    margin:10px;
+   }
+
+.tarif-name {
+    font-weight: bold;
+   
+}
+
+.tarif-price{
+    width:100%;
+    height: 70px;
+  
+ 
+}
+
+.tarif-name{
+    font-weight: bold;
+   
+}
+
+.tarif-text {
+    font-size: smaller;
+    border: 1px solid black
+}
+
+.tarif-speed {
+    border: 1px solid black;  
+}
+
+.selected{
+    width: 155px;
+    height: 405px;
+}
