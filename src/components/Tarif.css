@@ -30,7 +30,7 @@
     border: 1px solid black;  
 }
 
-.selected{
-    width: 155px;
-    height: 405px;
+.tarif-button {
+    border: 1px solid black;
+    font-weight: bold;
 }
